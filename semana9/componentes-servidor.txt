@@ -1,0 +1,19 @@
+- Sistema operativo:
+  Es el software base que administra los componentes físicos del hardware de la computadora (como procesador y memoria) y proporciona las 
+  condiciones de bajo nivel necesarias para que la aplicación del servidor pueda ejecutarse de forma estable.
+
+- Node.js:
+  Es un entorno de ejecución que permite ejecutar JavaScript fuera del navegador, principalmente en servidores. Se utiliza para crear aplicaciones 
+  web y servicios backend. Además, facilita el manejo de conexiones y solicitudes.
+
+- Aplicación server.js:
+  Es el archivo de texto que contiene el código fuente de nuestra lógica de negocio escrito en JavaScript. Su función es definir los puntos de 
+  entrada (rutas) de la aplicación y coordinar cómo responder a las peticiones del usuario.
+
+- Puerto:
+  Es una interfaz lógica o identificador numérico específico (en este caso el 3000) en el cual un servicio de red se mantiene "escuchando" 
+  activamente para recibir y canalizar las peticiones entrantes de datos.
+
+- Logs:
+  Son archivos de texto plano generados por el sistema donde se registran de manera cronológica todos los eventos, actividades, accesos de 
+  usuarios y errores que ocurren en el servidor para facilitar su auditoría y diagnóstico rápido.
