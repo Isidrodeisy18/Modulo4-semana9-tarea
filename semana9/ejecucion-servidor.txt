@@ -8,6 +8,7 @@ Aparece el mensaje de confirmación programado en el código: "Servidor ejecutá
 3. Qué sucede cuando visitas la ruta /estado:
 El servidor intercepta la solicitud HTTP GET realizada por el navegador web, procesa la ruta asignada y responde enviando un objeto con formato 
 JSON que contiene los datos técnicos:
+
 {
   "estado": "Servidor funcionando",
   "servicio": "API comunitaria"
